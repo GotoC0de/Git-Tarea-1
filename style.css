@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #131415;
+  color: #ffff;
+  font-family: "Fira Code", sans-serif;
+}
+
+#btn {
+  margin: 15px;
+  padding: 10px;
+  border-radius: 1rem;
+  border-style: none;
+  background: cadetblue;
+}
+
+.hide {
+  visibility: hidden;
+}
